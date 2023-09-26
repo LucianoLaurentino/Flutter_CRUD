@@ -1,3 +1,3 @@
 # Flutter CRUD
 
-Crud básico de usuário feito em Flutter
+CRUD básico de usuário feito em Flutter
